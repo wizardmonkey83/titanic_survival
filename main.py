@@ -13,8 +13,8 @@ from pathlib import Path
 fc = tf.feature_column
 
 # Define the file paths using Pathlib
-train_path = Path("/Users/benjaminbrady/Documents/Neo's plan/Databases/train_titanic.csv")
-eval_path = Path("/Users/benjaminbrady/Documents/Neo's plan/Databases/eval_titanic.csv")
+train_path = Path("/your/path/to/train.csv")
+eval_path = Path("/your/path/to/eval.csv")
 
 # Load the datasets
 dftrain = pd.read_csv(train_path)
