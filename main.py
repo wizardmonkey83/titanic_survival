@@ -1,3 +1,5 @@
+## code inspired by tensorflow 2.0 tutorial --> freecodecamp
+
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 # Import necessary libraries
