@@ -1,4 +1,5 @@
 ## code inspired by tensorflow 2.0 tutorial --> freecodecamp
+## changed substantially due to the 'estimator' module no longer functioning with tensorflow 2.16.2
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 
